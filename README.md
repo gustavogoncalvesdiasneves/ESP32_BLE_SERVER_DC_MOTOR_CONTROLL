@@ -4,6 +4,10 @@
 
 This project implements a BLE server on the ESP32 to control a motor using commands sent from a client application.
 
+## Demonstration Video
+
+[Watch the video](https://youtu.be/BUT6_Ezaww8?si=Hb7LZrK3193k3n62)
+
 **Functionalities:**
 - **BLE Configuration:** Defines UUIDs for the BLE service and read/write characteristics.
 - **Motor Control:** Uses an ESP32 pin to turn an engine on and off.
